@@ -1,0 +1,1 @@
+# woocommerce-require-checkout-fields
